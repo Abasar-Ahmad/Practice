@@ -12,5 +12,8 @@ public class Main {
             System.out.println("i = " + i);
         }
         System.out.println("How are you Sheikh");
+        System.out.println("git push -u origin main :- for push data in github");
+
+
     }
 }
