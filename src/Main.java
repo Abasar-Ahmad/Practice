@@ -14,6 +14,7 @@ public class Main {
         System.out.println("How are you Sheikh");
         System.out.println("git push -u origin main :- for push data in github");
         System.out.println("git status :- for see the status of git");
+        System.out.println("git add . :- save all changes");
 
 
 
